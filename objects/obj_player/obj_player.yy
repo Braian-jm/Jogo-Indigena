@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"str_player",
-    "path":"sprites/str_player/str_player.yy",
+    "name":"spr_playerParado",
+    "path":"sprites/spr_playerParado/spr_playerParado.yy",
   },
   "spriteMaskId":null,
   "visible":true,
